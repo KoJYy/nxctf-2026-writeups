@@ -63,6 +63,3 @@ Kompilasi otomatis dari `challenges/**/NOTES.md`, `STATUS.md`, dan dump resmi pl
 | Baby Python | `NFX{pyth0n_scr1pt_k1ds_4r3_n0t_s4f3}` |
 | Baby Strings | `NFX{str1ngs_4r3_y0ur_b3st_fr13nd}` |
 
-## Cara regenerate
-
-Writeup ini digenerate dari repo kerja (NOTES tiap soal + dump platform) memakai skrip `tools/compile_writeups.py`. Generator dan bahan mentahnya tidak disertakan di repo ini; yang dipublikasikan hanya hasil akhirnya.
